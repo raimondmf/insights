@@ -66,8 +66,8 @@ repository_tree: master
 paths:
   root    : # title link url, "/" (default)
   home    : "/insights" # home layout url, "/" (default)
-  archive : "/insights" # "/archive.html" (default)
-  rss     : "/insights" # "/feed.xml" (default)
+  archive : "/insights/archive.html" # "/archive.html" (default)
+  rss     : "/insights/feed.xml" # "/feed.xml" (default)
 
 
 ## => Post
