@@ -20,9 +20,11 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : An ISO Journey to real Security
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+ Highly knowledgeable and skilled Information Security Officer and team leader with proven expertise in Infosecurity and Cybersecurity
+ Focussed on regularization and standardization; product and customer oriented.
+ CISSP | CSSLP | CCSK | CCZTA
 
 
 ## => Language and Timezone
@@ -38,7 +40,7 @@ author:
   name      : Rai Miralles
   url       :
   avatar    : # path or url of avatar image (square)
-  bio       : I am an amazing person.
+  bio       : Information Security Officer at Mercedes-Benz Group.
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -63,9 +65,9 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : # home layout url, "/" (default)
-  archive : # "/archive.html" (default)
-  rss     : # "/feed.xml" (default)
+  home    : "/insights" # home layout url, "/" (default)
+  archive : "/insights" # "/archive.html" (default)
+  rss     : "/insights" # "/feed.xml" (default)
 
 
 ## => Post
